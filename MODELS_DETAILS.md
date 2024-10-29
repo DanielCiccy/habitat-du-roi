@@ -38,4 +38,4 @@ With Habitat du Roi®, the community regains control by structuring incoming flo
 **Comparison of the Two Models**:  
 In the current model, communities endure developers’ decisions, facing high financial and social costs. With Habitat du Roi®, the territory is proactively managed, integrating the real needs of residents and local capacities for harmonious development. Developers participate, but in a balanced role, serving common interests.
 
-*For the French audience, to reflect the paradigm shift, Habitat du Roi proposes a 'Purchase in Future Completion State.'*
+*For the French public, echoing the reversal of programs offered under VEFA (Sale in Future State of Completion), Habitat du Roi proposes building a model for Purchase in Future State of Completion.'*
