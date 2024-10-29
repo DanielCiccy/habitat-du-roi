@@ -35,7 +35,7 @@ Habitat du Roi® welcomes contributions from the community to enrich the website
 - Testing Procedures: Contributions undergo testing to verify functionality and avoid introducing errors.
 
 ### Stay Updated
-To come : All validated updates will be communicated to the community via our blog, social channels, and newsletter. We also encourage contributors to review our [Contribution Guidelines](link-to-contribution-guidelines) for more information on submitting high-quality contributions.
+To come : All validated updates will be communicated to the community via our blog, social channels, and newsletter. We also encourage contributors to review our [Contribution Guidelines] for more information on submitting high-quality contributions.
 
 Together, we’re building a transparent, community-driven platform that redefines real estate through blockchain technology.
 
