@@ -1,4 +1,4 @@
-**Habitat du Roi®: Scenario Descriptions**
+"Habitat du Roi®: Scenario Descriptions
 
 Below are two detailed scenarios for managing incoming resident flows, access to the real estate market, and revitalizing property assets within a territory for a local community. The first describes the current model, dominated by real estate developers, while the second explores the potential impact of the model proposed by Habitat du Roi®.
 
