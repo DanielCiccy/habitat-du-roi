@@ -8,7 +8,7 @@ For a more detailed description of our model, and how we are reshaping the real 
 Habitat du Roi seeks to enable a new economic model where real estate demand is given a voice, visibility, and power through tokenization. **By combining traditional tangible assets with the imaginary part of Web3, we aim to achieve a complex economy that benefits all stakeholders.**
 
 ## Foundational Principles
-As Habitat du RoiÂ® moves toward realizing this vision, the project is guided by key principles:
+As Habitat du Roi® moves toward realizing this vision, the project is guided by key principles:
 - **Complex Economy Structure**: Habitat du RoiÂ® operates at the intersection of traditional tangible real estate and the â€œimaginaryâ€ or intangible part of the Web3 economy. This aligns with our model of a *Complex Economy*, designed to balance both real and tokenized assets.
 - **Empowering Demand**: By tokenizing demand, Habitat du RoiÂ® gives a voice to the future buyer, enabling the creation of a collective demand that shapes the real estate market.
 - **Community and Ecosystem**: With the aim of decentralizing influence, the project envisions a future ecosystem where individuals and communities directly contribute to project development and value creation through active participation.
