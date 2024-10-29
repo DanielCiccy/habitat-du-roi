@@ -9,13 +9,13 @@ Habitat du Roi seeks to enable a new economic model where real estate demand is 
 
 ## Foundational Principles
 As Habitat du Roi® moves toward realizing this vision, the project is guided by key principles:
-- **Complex Economy Structure**: Habitat du RoiÂ® operates at the intersection of traditional tangible real estate and the â€œimaginaryâ€ or intangible part of the Web3 economy. This aligns with our model of a *Complex Economy*, designed to balance both real and tokenized assets.
-- **Empowering Demand**: By tokenizing demand, Habitat du RoiÂ® gives a voice to the future buyer, enabling the creation of a collective demand that shapes the real estate market.
+- **Complex Economy Structure**: Habitat du Roi® operates at the intersection of traditional tangible real estate and the imaginary or intangible part of the Web3 economy. This aligns with our model of a *Complex Economy*, designed to balance both real and tokenized assets.
+- **Empowering Demand**: By tokenizing demand, Habitat du Roi® gives a voice to the future buyer, enabling the creation of a collective demand that shapes the real estate market.
 - **Community and Ecosystem**: With the aim of decentralizing influence, the project envisions a future ecosystem where individuals and communities directly contribute to project development and value creation through active participation.
 
 ## Technical Elements & Technologies Used
 
-Given the complexity of this technical foundation, the founder, an entrepreneur, acknowledges the current limitations in terms of implementing the technology independently. Habitat du RoiÂ® seeks to form a team of skilled developers and blockchain specialists to carry forward this vision. The project's core elements are as follows:
+Given the complexity of this technical foundation, the founder, an entrepreneur, acknowledges the current limitations in terms of implementing the technology independently. Habitat du Roi® seeks to form a team of skilled developers and blockchain specialists to carry forward this vision. The project's core elements are as follows:
 
 - **Algorand Blockchain**: For efficient, secure, and sustainable smart contracts and tokenized assets.
 - **Web3 Integration**: Enabling decentralized interaction for users, with transparency and ownership.
@@ -38,7 +38,7 @@ We execute the conversion - making the transition from traditional to tokenized 
 
 ## Community Contributions
 
-Habitat du RoiÂ® welcomes contributions from the community to enrich the website and upcoming Web3 applications. Hereâ€™s how you can get involved and how we manage contributions to ensure quality and alignment with our goals.
+Habitat du Roi® welcomes contributions from the community to enrich the website and upcoming Web3 applications. Here is how you can get involved and how we manage contributions to ensure quality and alignment with our goals.
 
 ### How to Contribute
 - Content Enrichment: Community members can suggest new content, features, or improvements to enhance the user experience and expand resources.
@@ -55,14 +55,14 @@ Habitat du RoiÂ® welcomes contributions from the community to enrich the websi
 ### Stay Updated
 To come : All validated updates will be communicated to the community via our blog, social channels, and newsletter. We also encourage contributors to review our [Contribution Guidelines] for more information on submitting high-quality contributions.
 
-Together, weâ€™re building a transparent, community-driven platform that redefines real estate through blockchain technology.
+Together, we are building a transparent, community-driven platform that redefines real estate through blockchain technology.
 
 ---------------------------------
 
 ### Get Involved
 
-If youâ€™re interested in contributing to Habitat du RoiÂ® as a volunteer, please reach out! We welcome developers, content creators, and anyone passionate about reshaping real estate with blockchain.
+If you are interested in contributing to Habitat du Roi® as a volunteer, please reach out! We welcome developers, content creators, and anyone passionate about reshaping real estate with blockchain.
 
-ðŸ“§ For volunteer applications and more information, contact us at: **[contact@habitat-du-roi.com](mailto:contact@habitat-du-roi.com)**
+For volunteer applications and more information, contact us at: **[contact@habitat-du-roi.com](mailto:contact@habitat-du-roi.com)**
 
 
