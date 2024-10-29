@@ -6,6 +6,21 @@ This project redefines the connection between property buyers, landowners, and t
 ## Project Vision
 Habitat du Roi seeks to enable a new economic model where real estate demand is given a voice, visibility, and power through tokenization. By combining traditional tangible assets with the imaginary part of Web3, we aim to achieve a complex economy that benefits all stakeholders.
 
+## Foundational Principles
+As Habitat du Roi® moves toward realizing this vision, the project is guided by key principles:
+- **Complex Economy Structure**: Habitat du Roi® operates at the intersection of traditional tangible real estate and the “imaginary” or intangible part of the Web3 economy. This aligns with our model of a *Complex Economy*, designed to balance both real and tokenized assets.
+- **Empowering Demand**: By tokenizing demand, Habitat du Roi® gives a voice to the future buyer, enabling the creation of a collective demand that shapes the real estate market.
+- **Community and Ecosystem**: With the aim of decentralizing influence, the project envisions a future ecosystem where individuals and communities directly contribute to project development and value creation through active participation.
+
+## Technical Elements & Technologies Used
+
+Given the complexity of this technical foundation, the founder, an entrepreneur, acknowledges the current limitations in terms of implementing the technology independently. Habitat du Roi® seeks to form a team of skilled developers and blockchain specialists to carry forward this vision. The project's core elements are as follows:
+
+- **Algorand Blockchain**: For efficient, secure, and sustainable smart contracts and tokenized assets.
+- **Web3 Integration**: Enabling decentralized interaction for users, with transparency and ownership.
+- **JavaScript (React, Node.js)**: For front-end and back-end development of the web application interface.
+- **Smart Contract Logic**: Designed to manage and tokenize demand, ensuring secure, verifiable transactions.
+
 ## Features
 - Demand Structuring: Tokenizes real estate demand to create transparent and traceable purchasing power.
 - Blockchain-Based Ecosystem: Utilizes blockchain to support decentralized and secure transactions.
@@ -15,6 +30,8 @@ Habitat du Roi seeks to enable a new economic model where real estate demand is 
 This repository contains the foundational elements for Habitat du Roi, including smart contracts, documentation, and application code. Contributions and feedback are welcome to help bring this new vision of real estate to life.
 
 We execute the conversion - making the transition from traditional to tokenized real estate a reality.
+
+**Note:** The founder, though not a technical expert, brings a solid entrepreneurial vision and aims to collaborate with skilled partners to build and expand the technical foundation of Habitat du Roi®. Contributions that align with the hackathon objectives are detailed in each section of the repository. For inquiries regarding technical aspects, please reach out to us.
 
 ---------------------------------
 
