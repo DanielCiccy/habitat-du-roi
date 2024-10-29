@@ -1,6 +1,6 @@
 # habitat-du-roi
 A blockchain-based project for real estate demand tokenization
-[Habitat-du-Roi.com](http://www.habitat-du-roi.com){:target="_blank"} aims to revolutionize the real estate market by leveraging blockchain technology to structure real estate demand through tokenization. 
+[Habitat-du-Roi.com](http://www.habitat-du-roi.com) *->Right-click on the link and select 'Open link in new tab<-* aims to revolutionize the real estate market by leveraging blockchain technology to structure real estate demand through tokenization. 
 This project redefines the connection between property buyers, landowners, and the community by creating a transparent, decentralized platform for more accessible and equitable real estate development.
 
 ## Project Vision
