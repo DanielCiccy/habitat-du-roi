@@ -4,7 +4,7 @@ A blockchain-based project for real estate demand tokenization
 This project redefines the connection between property buyers, landowners, and the community by creating a transparent, decentralized platform for more accessible and equitable real estate development.
 
 ## Project Vision
-Habitat du Roi seeks to enable a new economic model where real estate demand is given a voice, visibility, and power through tokenization. By combining traditional tangible assets with the imaginary part of Web3, we aim to achieve a complex economy that benefits all stakeholders.
+Habitat du Roi seeks to enable a new economic model where real estate demand is given a voice, visibility, and power through tokenization. **By combining traditional tangible assets with the imaginary part of Web3, we aim to achieve a complex economy that benefits all stakeholders.**
 
 ## Foundational Principles
 As Habitat du Roi® moves toward realizing this vision, the project is guided by key principles:
