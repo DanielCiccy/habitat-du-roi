@@ -70,5 +70,8 @@ It is applicable beyond real estate: to cultural commons, decentralized governan
 
 [← Back to MODELS_DETAILS.md](./MODELS_DETAILS.md)
 
+For more about how collective decisions are handled, see [VOTE_MODEL_PROCESS.md](./VOTE_MODEL_PROCESS.md).
+
+
 **#CredimusInOptimumHumanis**  
 *We believe in the best of each man.*
