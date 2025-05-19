@@ -68,5 +68,7 @@ It is applicable beyond real estate: to cultural commons, decentralized governan
 
 ---
 
+[← Back to MODELS_DETAILS.md](./MODELS_DETAILS.md)
+
 **#CredimusInOptimumHumanis**  
 *We believe in the best of each man.*
