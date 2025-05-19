@@ -1,4 +1,4 @@
-# Smart Agreement Indexed: A Hybrid Approach to Web3 Contractualization
+# Smart Agreement Indexed: an hybrid approach to Web3 contractualization
 
 ## Context
 
