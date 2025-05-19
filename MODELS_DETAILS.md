@@ -38,4 +38,12 @@ With Habitat du Roi®, the community regains control by structuring incoming flo
 **Comparison of the Two Models**:  
 In the current model, communities endure developers’ decisions, facing high financial and social costs. With Habitat du Roi®, the territory is proactively managed, integrating the real needs of residents and local capacities for harmonious development. Developers participate, but in a balanced role, serving common interests.
 
+## Smart Agreement Indexed
+
+Habitat du Roi® introduces a hybrid model called the **Smart Agreement Indexed**, in which contracts are authored off-chain, hashed, and anchored on the blockchain via a minimal transaction.
+
+This method is documented in detail here:  
+➡️ [Read the full explanation](./SMART_AGREEMENT_INDEX.md)
+
+
 *For the French public, echoing the reversal of programs offered under VEFA (Sale in Future State of Completion), Habitat du Roi proposes building a model for Purchase in Future State of Completion.'*
