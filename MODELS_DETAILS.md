@@ -45,5 +45,7 @@ Habitat du Roi® introduces a hybrid model called the **Smart Agreement Indexed*
 This method is documented in detail here:  
 ➡️ [Read the full explanation](./SMART_AGREEMENT_INDEX.md)
 
+For more about how collective decisions are handled, see [VOTE_MODEL_PROCESS.md](./VOTE_MODEL_PROCESS.md).
+
 
 *For the French public, echoing the reversal of programs offered under VEFA (Sale in Future State of Completion), Habitat du Roi proposes building a model for Purchase in Future State of Completion.'*
