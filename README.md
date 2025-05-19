@@ -17,7 +17,7 @@ As Habitat du Roi® moves toward realizing this vision, the project is guided by
 
 Given the complexity of this technical foundation, the founder, an entrepreneur, acknowledges the current limitations in terms of implementing the technology independently. Habitat du Roi® seeks to form a team of skilled developers and blockchain specialists to carry forward this vision. The project's core elements are as follows:
 
-- **Algorand Blockchain**: For efficient, secure, and sustainable smart contracts and tokenized assets.
+- **Solana Blockchain**: For efficient, secure, and sustainable smart contracts and tokenized assets.
 - **Web3 Integration**: Enabling decentralized interaction for users, with transparency and ownership.
 - **JavaScript (React, Node.js)**: For front-end and back-end development of the web application interface.
 - **Smart Contract Logic**: Designed to manage and tokenize demand, ensuring secure, verifiable transactions.
