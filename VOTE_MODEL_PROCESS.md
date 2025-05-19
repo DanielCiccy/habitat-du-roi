@@ -16,7 +16,7 @@ This model avoids the cost and rigidity of full on-chain voting, while ensuring 
 
 The diagram below shows the four key steps of this voting mechanism:
 
-![Off-Chain Voting with On-Chain Anchoring](./docs/images/vote-process.png)
+![Off-Chain Voting with On-Chain Anchoring](./docs/images/VOTE_MODEL_PROCESS.png)
 
 *Figure: Hybrid voting flow used in Habitat du Roi® for project governance.*
 
