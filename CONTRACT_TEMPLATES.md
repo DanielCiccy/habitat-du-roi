@@ -1,5 +1,32 @@
 # 📄 CONTRACT TEMPLATES — Habitat du Roi®
 
+At the heart of each contract initiated or co-signed by Habitat du Roi® lies a foundational principle:
+
+> **The Demand comes first.**
+
+Habitat du Roi® may act as co-contractor, facilitator, or service provider, but it always recognizes the **structured Demand** — particularly committed buyers — as the **true beneficiary** of all operations.
+
+To reflect this, all agreements integrated into this repository include the following standard clause:
+
+---
+
+### ⚖️ Clause — Supremacy of the Demand’s Interest and Status of Third-Party Beneficiaries
+
+The Parties acknowledge that although this agreement is concluded between [Name of Provider] and Habitat du Roi®, its primary purpose is to serve a structured need expressed by a collective of prospective buyers (the “Demand”).
+
+Accordingly, individuals or groups who have expressed formal engagement in the project are expressly considered **third-party beneficiaries** within the meaning of applicable civil law, including Article 1205 of the French Civil Code, where relevant.
+
+Habitat du Roi® undertakes to execute this agreement in full compliance with the **superior interest of the Demand**, ensuring that all services or deliverables correspond to the commitments publicly announced to said beneficiaries.
+
+This clause does not release Habitat du Roi® from any of its **own obligations or liabilities toward third parties**, particularly in terms of transparency, due diligence, and contractual responsibility.
+
+In the event of a dispute, the Parties agree that a joint review shall be conducted to determine whether the contractual obligations have been met in light of the legitimate expectations of the Demand. Failing amicable resolution, liability may be engaged based on the consequences for those third-party beneficiaries.
+
+---
+
+## 📁 Contracts Available
+
+
 This file introduces a set of **reference contract templates** designed to illustrate the dual-sided structure of the Habitat du Roi® system:
 
 - On the **Supply side**, contracts bind a developer, a landowner, or a public actor to Habitat du Roi® for the purpose of producing or securing a feasibility.
@@ -45,6 +72,7 @@ Even though this contract is tied to the Supply (as opposed to Demand structurin
 many operations fail to materialize due to an inability to secure financing under the current VEFA model, or because the accumulated margin requirements of intermediaries make the equation unworkable.
 
 This agreement allows stalled real estate projects to be reopened under new conditions, by externalizing feasibility through a structured, sovereign DAO logic.
+
 🔗 [Raw JSON (FR)](https://raw.githubusercontent.com/DanielCiccy/habitat-du-roi/main/docs/contracts/contract-en.json)
 🔗 [Raw JSON (FR)](https://raw.githubusercontent.com/DanielCiccy/habitat-du-roi/main/docs/contracts/contract-fr.json)
 
