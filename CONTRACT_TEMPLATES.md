@@ -35,7 +35,7 @@ Contracts to be added progressively:
 ---
 
 All templates are stored in:  
-📁🔗 [Raw JSON (FR)](https://raw.githubusercontent.com/DanielCiccy/habitat-du-roi/main/docs/contracts/)
+📁🔗 /docs/contracts/
 
 Each contract can be viewed as a **Smart Agreement Indexed**: enriched off-chain, hashed for traceability, and optionally anchored on-chain when validated.
 
