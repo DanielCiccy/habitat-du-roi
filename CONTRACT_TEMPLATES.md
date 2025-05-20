@@ -35,7 +35,7 @@ Contracts to be added progressively:
 ---
 
 All templates are stored in:  
-📁 `/docs/contracts/`
+📁🔗 [Raw JSON (FR)](https://raw.githubusercontent.com/DanielCiccy/habitat-du-roi/main/docs/contracts/)
 
 Each contract can be viewed as a **Smart Agreement Indexed**: enriched off-chain, hashed for traceability, and optionally anchored on-chain when validated.
 
@@ -45,6 +45,6 @@ Even though this contract is tied to the Supply (as opposed to Demand structurin
 many operations fail to materialize due to an inability to secure financing under the current VEFA model, or because the accumulated margin requirements of intermediaries make the equation unworkable.
 
 This agreement allows stalled real estate projects to be reopened under new conditions, by externalizing feasibility through a structured, sovereign DAO logic.
-
-🔗 Access the sample contract (FR/EN)
+🔗 [Raw JSON (FR)](https://raw.githubusercontent.com/DanielCiccy/habitat-du-roi/main/docs/contracts/contract-en.json)
+🔗 [Raw JSON (FR)](https://raw.githubusercontent.com/DanielCiccy/habitat-du-roi/main/docs/contracts/contract-fr.json)
 
