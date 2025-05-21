@@ -22,7 +22,7 @@ As part of this ecosystem, the **LeCorbs DAO** introduces a **Local Civic Token 
 
 Each LCB is derived from and connected to the HDR token, Habitat du Roi®’s generic and global token. It acts as a **DeFi civic extension**, rewarding local virtue and shared responsibility with yield-bearing value. It allows communities to convert trust into tokens and participation into power.
 
-📜 Read more in the [LeCorbs DAO Declaration](./LeCorbs_DAO.md)
+📜 Read more in the [LeCorbs DAO Declaration](./LeCorb_DAO.md)
 
 ## Smart Agreement Indexed
 
