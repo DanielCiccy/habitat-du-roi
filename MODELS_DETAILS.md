@@ -50,7 +50,7 @@ In the current model, communities endure developers’ decisions, facing high fi
 Habitat du Roi® introduces a hybrid model called the Smart Agreement Indexed, in which contracts are authored off-chain, hashed, and anchored on the blockchain via a minimal transaction.
 
 This method is documented in detail here:
-➡️ Read the full explanation
+➡️ Read the full explanation [SMART_AGREEMENT_INDEX.md](./SMART_AGREEMENT_INDEX.md)
 
 For more about how collective decisions are handled, see VOTE_MODEL_PROCESS.md.
 
