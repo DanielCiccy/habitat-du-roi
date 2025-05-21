@@ -1,4 +1,5 @@
 # habitat-du-roi
+
 A blockchain-based project for real estate demand tokenization  
 [Habitat-du-Roi.com](http://www.habitat-du-roi.com) *->Right-click on the link<-* aims to revolutionize the real estate market by leveraging blockchain technology to structure real estate demand through tokenization.  
 This project redefines the connection between property buyers, landowners, and the community by creating a transparent, decentralized platform for more accessible and equitable real estate development.  
@@ -14,6 +15,14 @@ As Habitat du Roi® moves toward realizing this vision, the project is guided by
 - **Complex Economy Structure**: Habitat du Roi® operates at the intersection of traditional tangible real estate and the imaginary or intangible part of the Web3 economy. This aligns with our model of a *Complex Economy*, designed to balance both real and tokenized assets.
 - **Empowering Demand**: By tokenizing demand, Habitat du Roi® gives a voice to the future buyer, enabling the creation of a collective demand that shapes the real estate market.
 - **Community and Ecosystem**: With the aim of decentralizing influence, the project envisions a future ecosystem where individuals and communities directly contribute to project development and value creation through active participation.
+
+## LeCorbs DAO & Local Civic Token (LCB)
+
+As part of this ecosystem, the **LeCorbs DAO** introduces a **Local Civic Token (LCB)** — a programmable savings instrument whose value evolves based on the verifiable social performance of its community.
+
+Each LCB is derived from and connected to the HDR token, Habitat du Roi®’s generic and global token. It acts as a **DeFi civic extension**, rewarding local virtue and shared responsibility with yield-bearing value. It allows communities to convert trust into tokens and participation into power.
+
+📜 Read more in the [LeCorbs DAO Declaration](./LeCorbs_DAO.md)
 
 ## Smart Agreement Indexed
 
