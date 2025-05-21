@@ -76,6 +76,6 @@ The LCB token functions as:
 - an instrument of trust and dignity,
 - and a gateway to local governance through token-weighted decisions.
 
-📎 Read the full declaration: [LeCorbs_DAO.md](./LeCorbs_DAO.md)
+📎 Read the full declaration: [LeCorbs_DAO.md](./LeCORB_DAO.md)
 
 By adopting this model, Habitat du Roi® chooses the **power of transparency**. Publishing these mechanisms openly is not just communication — it is governance by design.
