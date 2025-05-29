@@ -7,7 +7,7 @@ Rather than coding complex logic directly into a blockchain-based smart contract
 
 - Contracts are **authored and enriched off-chain** (via a dedicated interface).
 - A **SHA-256 hash** is computed to create a unique, immutable fingerprint.
-- Only this hash is **anchored on the Algorand blockchain** through a signed transaction (`txnId`).
+- Only this hash is **anchored on the Solana blockchain** through a signed transaction (`txnId`).
 - The full content of the contract is stored off-chain, yet cryptographically verifiable through its hash.
 
 > We call this method:
