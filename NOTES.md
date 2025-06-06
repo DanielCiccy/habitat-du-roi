@@ -27,8 +27,30 @@ All improvements and changes are documented in the `docs/improvements/` director
 
 ## 📋 Recent Improvements (June 2025)
 
+### 🔄 Transparency Comparison Enhancement - Conditional Retractability Integration
+**Date**: 2025-06-06 (Afternoon Update)
+
+**Enhancement Details**:
+- **Integrated conditional right of withdrawal** into the "Free is an illusion" comparison section
+- **Merged messaging**: Combined "Co-produced feasibility" and "Shared guarantees" into single line for visual balance
+- **Added distinctive feature**: Highlighted "🛡️ Conditional right of withdrawal" as unique Habitat du Roi advantage
+- **Visual improvements**: Special orange styling for retractability feature with shield icon
+- **Maintained balance**: Kept equal visual weight between traditional and Habitat du Roi models
+
+**Technical Implementation**:
+- Enhanced `TransparencyComparison.tsx` with conditional rendering logic
+- Added Shield icon from Lucide React for retractability visual cue
+- Implemented dynamic styling based on content type (retractability vs standard features)
+- Preserved bilingual support (FR/EN) for all new messaging
+
+**Messaging Refinement**:
+- **French**: "🛡️ Droit de rétractation conditionné"
+- **English**: "🛡️ Conditional right of withdrawal"
+- Emphasized this as protection transforming traditional risk into collective opportunity
+- Reinforced competitive advantage through unique participant protection
+
 ### 🎯 Systemic Benefits & Value Proposition Enhancement
-**Date**: 2025-06-06
+**Date**: 2025-06-06 (Morning Update)
 
 **New Components Added**:
 - `SystemicBenefitsSection.tsx` - Comprehensive win-win ecosystem explanation
@@ -58,6 +80,21 @@ All improvements and changes are documented in the `docs/improvements/` director
 - Updated Offre page with professional benefits
 - Maintained consistency across all touchpoints
 - Preserved existing functionality while enhancing messaging
+
+### 🔧 Developer Experience Improvements
+**Date**: 2025-06-06
+
+**Password Visibility in Developer Mode**:
+- **Enhanced authentication forms** for better development experience
+- **Default password visibility** in developer mode across all auth forms
+- **Toggle functionality** maintained for security when needed
+- **Files updated**: EmailSignInForm, EmailSignUpForm, PasswordUpdateForm
+
+**Benefits**:
+- Faster development and testing cycles
+- Improved debugging capabilities for authentication flows
+- Maintained security best practices for production use
+- Consistent experience across all password input forms
 
 ## 📖 How to Use This Documentation
 
@@ -96,13 +133,20 @@ Each improvement entry follows this structure:
 - **Developer partnership program**
 - **Transparent cost structure vs traditional models**
 - **Value creation through margin optimization**
+- **Conditional right of withdrawal protection**
 
 ### 🎯 Core Value Proposition
 The platform unlocks previously impossible real estate projects by eliminating certain intermediate costs, creating a win-win ecosystem where:
-- Buyers access projects at optimized prices with full transparency
+- Buyers access projects at optimized prices with full transparency and conditional retractability
 - Developers access pre-qualified demand with reduced commercial risks
 - Local authorities benefit from viable urban projects and accelerated development
 - Landowners can explore new tokenization and partnership models
+
+### 🛡️ Unique Competitive Advantages
+- **Conditional retractability**: Exceptional right of withdrawal subject to declaration sincerity
+- **Transparent cost comparison**: Clear visualization of traditional vs optimized cost structures
+- **Blockchain transparency**: Full traceability and trust through decentralized verification
+- **Collective risk mitigation**: Transforming individual risk into mutualized opportunity
 
 ---
 
