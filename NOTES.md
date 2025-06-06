@@ -21,13 +21,47 @@ All improvements and changes are documented in the `docs/improvements/` director
 |-------------------|------|---------------|------------|
 | **Technical** | [Code Refactoring](./docs/improvements/code-refactoring.md) | 2025-01-29 | Hook decomposition, component extraction |
 | **Technical** | [Infrastructure](./docs/improvements/infrastructure.md) | 2025-01-27 | Dynamic country tables, database optimization |
-| **User Experience** | [UI/UX Improvements](./docs/improvements/ui-ux-improvements.md) | 2025-01-29 | Urban planning awareness banner |
+| **User Experience** | [UI/UX Improvements](./docs/improvements/ui-ux-improvements.md) | 2025-06-06 | Systemic benefits messaging, transparency comparison |
 | **Technology** | [Blockchain Features](./docs/improvements/blockchain-features.md) | 2025-01-29 | Solana Devnet simulation, wallet engagement |
-| **Business** | [Business Model](./docs/improvements/business-model.md) | 2025-01-29 | Oracle verification, contract updates |
+| **Business** | [Business Model](./docs/improvements/business-model.md) | 2025-06-06 | Value proposition clarity, messaging refinement |
 
-## 📋 How to Use This Documentation
+## 📋 Recent Improvements (June 2025)
 
-1. **Start here**: This file (`mainNote.md`) for overview and navigation
+### 🎯 Systemic Benefits & Value Proposition Enhancement
+**Date**: 2025-06-06
+
+**New Components Added**:
+- `SystemicBenefitsSection.tsx` - Comprehensive win-win ecosystem explanation
+- `ProfessionalBenefitsSection.tsx` - Professional benefits for the Offre page
+- `TransparencyComparison.tsx` - Interactive comparison between traditional and Habitat du Roi models
+
+**Key Messaging Improvements**:
+- Enhanced value proposition with "débloquer l'impossible" concept
+- Refined messaging: "En supprimant certains de ces coûts intermédiaires" (more nuanced than eliminating all costs)
+- Added transparency comparison showing cost structures
+- Improved professional engagement messaging
+
+**Visual & UX Enhancements**:
+- Currency-neutral icons (replaced dollar signs with percentage symbols)
+- Interactive comparison cards for cost transparency
+- Enhanced visual hierarchy with gradient backgrounds
+- Added unlock metaphor throughout messaging
+
+**Technical Implementation**:
+- Modular component architecture for easy maintenance
+- Bilingual support (FR/EN) with consistent translations
+- Responsive design for mobile and desktop
+- Integration with existing design system
+
+### 🔄 Integration Points
+- Enhanced HeroSection with systemic benefits messaging
+- Updated Offre page with professional benefits
+- Maintained consistency across all touchpoints
+- Preserved existing functionality while enhancing messaging
+
+## 📖 How to Use This Documentation
+
+1. **Start here**: This file (`NOTES.md`) for overview and navigation
 2. **Browse by topic**: Click on the specific documentation files based on your interest
 3. **Detailed improvements**: Each topic file contains chronological improvements with detailed explanations
 4. **Cross-references**: Related improvements are cross-referenced between files
@@ -60,6 +94,15 @@ Each improvement entry follows this structure:
 - **Municipal urban planning integration**
 - **Multi-country support with localized data**
 - **Developer partnership program**
+- **Transparent cost structure vs traditional models**
+- **Value creation through margin optimization**
+
+### 🎯 Core Value Proposition
+The platform unlocks previously impossible real estate projects by eliminating certain intermediate costs, creating a win-win ecosystem where:
+- Buyers access projects at optimized prices with full transparency
+- Developers access pre-qualified demand with reduced commercial risks
+- Local authorities benefit from viable urban projects and accelerated development
+- Landowners can explore new tokenization and partnership models
 
 ---
 
