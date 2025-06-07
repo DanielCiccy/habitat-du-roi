@@ -19,13 +19,51 @@ All improvements and changes are documented in the `docs/improvements/` director
 
 | Documentation Type | File | Latest Update | Key Topics |
 |-------------------|------|---------------|------------|
-| **Technical** | [Code Refactoring](./docs/improvements/code-refactoring.md) | 2025-01-29 | Hook decomposition, component extraction |
+| **Technical** | [Code Refactoring](./docs/improvements/code-refactoring.md) | 2025-06-07 | Hook refactoring, contract form decomposition |
 | **Technical** | [Infrastructure](./docs/improvements/infrastructure.md) | 2025-01-27 | Dynamic country tables, database optimization |
 | **User Experience** | [UI/UX Improvements](./docs/improvements/ui-ux-improvements.md) | 2025-06-06 | Systemic benefits messaging, transparency comparison |
 | **Technology** | [Blockchain Features](./docs/improvements/blockchain-features.md) | 2025-01-29 | Solana Devnet simulation, wallet engagement |
 | **Business** | [Business Model](./docs/improvements/business-model.md) | 2025-06-06 | Value proposition clarity, messaging refinement |
 
 ## 📋 Recent Improvements (June 2025)
+
+### 🔧 Hook Architecture Refactoring - Contract Form Decomposition
+**Date**: 2025-06-07
+
+**Major Refactoring Details**:
+- **Decomposed `useOfferContractFormEnhanced.ts`** into focused, single-responsibility hooks
+- **Created specialized hooks**:
+  - `useContractGeneration.ts` - Contract generation and hash management
+  - `useFormValidationLogic.ts` - Form validation functions and error handling
+  - `useContractStepNavigation.ts` - Step navigation and flow management
+- **Maintained functionality** while improving code maintainability and testability
+- **Fixed TypeScript errors** related to function signatures and type compatibility
+
+**Technical Benefits**:
+- **Single Responsibility Principle**: Each hook has a clear, focused purpose
+- **Better testability**: Smaller hooks are easier to unit test
+- **Improved maintainability**: Changes to one aspect don't affect others
+- **Cleaner imports**: Components can import only what they need
+- **Type safety**: Resolved all TypeScript compilation errors
+
+**Hook Decomposition Structure**:
+```
+useOfferContractFormEnhanced.ts (orchestrator)
+├── useContractGeneration.ts (contract & hash generation)
+├── useFormValidationLogic.ts (validation functions)
+├── useContractStepNavigation.ts (step management)
+├── useOfferContractState.ts (state management)
+├── useOfferContractValidation.ts (validation state)
+├── useOfferContractActions.ts (contract actions)
+└── useOfferProjectActions.ts (project operations)
+```
+
+**Code Quality Improvements**:
+- Eliminated duplicate function definitions
+- Fixed missing property errors in state management
+- Corrected function signature mismatches
+- Added proper null checks and type guards
+- Maintained backward compatibility with existing components
 
 ### 🔄 Transparency Comparison Enhancement - Conditional Retractability Integration
 **Date**: 2025-06-06 (Afternoon Update)
