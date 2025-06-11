@@ -19,6 +19,7 @@ All improvements and changes are documented in the `docs/improvements/` director
 
 | Documentation Type | File | Latest Update | Key Topics |
 |-------------------|------|---------------|------------|
+| **Security** | [Security Improvements](#security-improvements) | 2025-06-11 | Route protection, authentication enforcement |
 | **Technical** | [Code Refactoring](./docs/improvements/code-refactoring.md) | 2025-06-07 | Hook refactoring, contract form decomposition |
 | **Technical** | [Infrastructure](./docs/improvements/infrastructure.md) | 2025-01-27 | Dynamic country tables, database optimization |
 | **User Experience** | [UI/UX Improvements](./docs/improvements/ui-ux-improvements.md) | 2025-06-06 | Systemic benefits messaging, transparency comparison |
@@ -26,6 +27,57 @@ All improvements and changes are documented in the `docs/improvements/` director
 | **Business** | [Business Model](./docs/improvements/business-model.md) | 2025-06-06 | Value proposition clarity, messaging refinement |
 
 ## 📋 Recent Improvements (June 2025)
+
+### 🔐 Security Improvements - Route Protection Enhancement
+**Date**: 2025-06-11
+
+**Security Enhancement Details**:
+- **Protected sensitive routes**: Added authentication requirements to all sensitive pages
+- **Fixed security vulnerability**: Prevented unauthenticated access to `/structuration-offre` and other sensitive routes
+- **Enhanced route configuration**: Wrapped sensitive routes in `PublicRoute` with `requiresAuth={true}`
+- **Consistent authentication enforcement**: Ensured both Demande and Offre flows require authentication
+
+**Routes Protected**:
+- `/structuration-offre` - Offer structuring page
+- `/confirmation-offre` - Offer confirmation page
+- `/contract` - Contract management page
+- `/dashboard` - User dashboard
+- `/profile` - User profile page
+- `/web3-identity` - Web3 identity management
+- `/project/:id` - Project details pages
+
+**Technical Implementation**:
+- Updated `src/App.tsx` to wrap sensitive routes with authentication protection
+- Maintained existing `PublicRoute` component functionality
+- Preserved unauthenticated access to public pages (home, auth, qui-nous-sommes, glossary)
+- Added proper authentication flow redirection for protected content
+
+**Security Benefits**:
+- **Prevented unauthorized access**: Users must authenticate before accessing sensitive functionality
+- **Consistent protection**: Both demand and offer flows now require authentication
+- **Proper redirection**: Unauthenticated users are redirected to authentication screens
+- **Maintained user experience**: Smooth authentication flow without breaking existing functionality
+
+### 🎨 Navigation Cleanup - Profile Page Enhancement
+**Date**: 2025-06-11
+
+**UI Enhancement Details**:
+- **Removed redundant navigation**: Cleaned up Profile page by removing duplicate MainNavigation
+- **Improved visual hierarchy**: Streamlined profile page layout for better user experience
+- **Consistent header structure**: Maintained Logo in header while removing navigation duplication
+- **Enhanced focus**: Profile page now focuses on profile content without navigation clutter
+
+**Technical Changes**:
+- Updated `src/pages/Profile.tsx` to remove MainNavigation component import and usage
+- Maintained Logo component in header for brand consistency
+- Preserved all profile functionality while improving visual layout
+- Ensured responsive design principles remain intact
+
+**User Experience Benefits**:
+- **Cleaner interface**: Reduced visual noise on profile page
+- **Better focus**: Users can concentrate on profile management tasks
+- **Consistent branding**: Logo remains visible for brand recognition
+- **Streamlined navigation**: Primary navigation available through other UI elements
 
 ### 🔧 Hook Architecture Refactoring - Contract Form Decomposition
 **Date**: 2025-06-07
@@ -172,6 +224,7 @@ Each improvement entry follows this structure:
 - **Transparent cost structure vs traditional models**
 - **Value creation through margin optimization**
 - **Conditional right of withdrawal protection**
+- **Secure authentication-protected workflows**
 
 ### 🎯 Core Value Proposition
 The platform unlocks previously impossible real estate projects by eliminating certain intermediate costs, creating a win-win ecosystem where:
@@ -185,6 +238,13 @@ The platform unlocks previously impossible real estate projects by eliminating c
 - **Transparent cost comparison**: Clear visualization of traditional vs optimized cost structures
 - **Blockchain transparency**: Full traceability and trust through decentralized verification
 - **Collective risk mitigation**: Transforming individual risk into mutualized opportunity
+- **Secure access control**: Authentication-protected sensitive workflows ensuring data privacy
+
+### 🔐 Security Features
+- **Authentication-protected routes**: All sensitive pages require user authentication
+- **Granular access control**: Different permission levels for different user types
+- **Secure data handling**: Protected user profiles and contract information
+- **Privacy-first design**: User data protection throughout all workflows
 
 ---
 
